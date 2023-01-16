@@ -1,0 +1,16 @@
+p{
+    color: darkgrey;
+}
+p:hover{
+    color: black;
+}
+h4, h2{
+    color: darkred;
+}
+h4:hover, h2:hover{
+    color: orangered;
+}
+
+h1:hover, h3:hover, h5:hover{
+    color: orangered;
+}
